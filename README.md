@@ -15,7 +15,7 @@ Jawab:
 Panduan:
 - Tambahkan minimal 3 event yang berbeda untuk menghandle form pada 1.1
 - Implementasikan JavaScript untuk validasi setiap input sebelum diproses oleh PHP
-Jawab:
+<br>Jawab:
 - Event pada form 1.1 berupa: text untuk (nama,email,telepon), password untuk (password), radio untuk (jenis kelamin), date untuk tanggal lahir, textarea untuk (alamat) dan ceckbox untuk syarat dan ketentuan.
 - Javascript di implementasikan ketika pengguna belum menyetujui syarat dan ketentuan maka akan muncul alert bahwa user wajib menyetujui syarat dan ketentuan.
 
