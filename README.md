@@ -1,7 +1,7 @@
 # Fauzan alfa abhista-121140217-UASPemweb
 Repository yang digunakan untuk Ujian Akhir Semester Pemrograman web
 
-Panduan:
+**Panduan:**
 # Bagian 1: Client-side Programming (Bobot: 30%)
 1.1 (15%) Buatlah sebuah halaman web sederhana yang memanfaatkan JavaScript untuk melakukan manipulasi DOM.
 Panduan:
