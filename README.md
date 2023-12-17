@@ -73,12 +73,12 @@ Panduan:
 - data mengenai email dan password akan di simpan pada local storage
 
 # Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
-Bagian bonus ini akan memberikan bobot tambahan 20% jika Anda berhasil meng-host aplikasi web yang Anda buat. Jawablah pertanyaan-pertanyaan berikut:
+Bagian bonus ini akan memberikan bobot tambahan 20% jika Anda berhasil meng-host aplikasi web yang Anda buat. Jawablah pertanyaan-pertanyaan berikut:<br>
 (5%) Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
-<br>**Jawab:** Langkah-Langkah yang dilakukan dalam menghosting web adalah memilih web yang tepat. input database menggunakan query yang telah dibuat sebelumnya. masukan segala berkas/file yang dibuat. lalu koneksikan database dan file melalui variabel untuk menyimpan informasi koneksi seperti (host, username, password, nama database).
+<br>**Jawab:** Langkah-Langkah yang dilakukan dalam menghosting web adalah memilih web yang tepat. input database menggunakan query yang telah dibuat sebelumnya. masukan segala berkas/file yang dibuat. lalu koneksikan database dan file melalui variabel untuk menyimpan informasi koneksi seperti (host, username, password, nama database).<br>
 (5%) Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
-<br>**Jawab:** 000webhostapp dipilih selain gratis, mudah dalam deploy atau hosting web.
+<br>**Jawab:** 000webhostapp dipilih selain gratis, mudah dalam deploy atau hosting web.<br>
 (5%) Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
-<br>**Jawab:** 
+<br>**Jawab:** <br>
 (5%) Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
-<br>**Jawab:**
+<br>**Jawab:**<br>
