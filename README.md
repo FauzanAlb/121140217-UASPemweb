@@ -74,11 +74,11 @@ Panduan:
 
 # Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
 Bagian bonus ini akan memberikan bobot tambahan 20% jika Anda berhasil meng-host aplikasi web yang Anda buat. Jawablah pertanyaan-pertanyaan berikut:<br>
-(5%) Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
+- (5%) Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
 <br>**Jawab:** Langkah-Langkah yang dilakukan dalam menghosting web adalah memilih web yang tepat. input database menggunakan query yang telah dibuat sebelumnya. masukan segala berkas/file yang dibuat. lalu koneksikan database dan file melalui variabel untuk menyimpan informasi koneksi seperti (host, username, password, nama database).<br>
-(5%) Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
+- (5%) Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
 <br>**Jawab:** 000webhostapp dipilih selain gratis, mudah dalam deploy atau hosting web.<br>
-(5%) Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
+- (5%) Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
 <br>**Jawab:** dengan melihat keamanan yang ditawarkan oleh penyedia hosting, seperti 000webhost menggunakan firewall canggih dan melibatkan perlindungan DDoS1<br>. dikarenakan 000webhost merupakan web hosting gratis maka keamanan seperti itu saya rasa sudah cukup.
-(5%) Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
+- (5%) Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
 <br>**Jawab:** dalam pembuatan web server ini, saya menggunakan PHP,Javascript,css dan bootstrap dalam konfigurasinya.  untuk pengaturan database saya menggunakan MySQL atau XAMPP. untuk pengetesan atau perancangan web saya menggunakan localhost dan pada deploy atau hosting saya menggunakan 000webhost.<br>
