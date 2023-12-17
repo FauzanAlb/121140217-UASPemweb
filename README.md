@@ -32,14 +32,15 @@ Panduan:
 2.2 (10%) Buatlah sebuah objek PHP berbasis OOP yang memiliki minimal dua metode dan gunakan objek tersebut dalam skenario tertentu pada halaman web Anda.
 Panduan:
 - Objek yang dibuat harus terkait dengan konteks pengembangan web saat ini
-<br>**Jawab:** 
+<br>**Jawab:**
+- Pada file database/user.php terdapat beberapa implementasi OOP pada class user diantaranya properti private $pdo; dan berbagai metode seperti hitungUser(), tambahUser($nama, $email, $telp, $pass, $tgl_lahir, $alamat ,$jk), dan lainnya.
 
 # Bagian 3: Database Management (Bobot: 20%)
 3.1 (5%) Buatlah sebuah tabel pada database MySQL
 Panduan:
 - Lampirkan langkah-langkah dalam membuat basisdata dengan syntax basisdata
 <br>**Jawab:**
-Syntax basis data dibuat pada file database.sql
+Syntax basis data dibuat pada file database/UAS_pemweb.sql
 
 3.2 (5%) Buatlah konfigurasi koneksi ke database MySQL pada file PHP. Pastikan koneksi berhasil dan dapat diakses.
 Panduan:
