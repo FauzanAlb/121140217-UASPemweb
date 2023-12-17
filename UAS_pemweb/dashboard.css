@@ -1,0 +1,252 @@
+.edit_profile {
+  box-shadow: 0 3px 20px rgba(0,0,0,0.16);
+  border-radius:10px; 
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+}
+.edit_profile_image {
+
+  width: 260px;
+  height: 260px;
+  border-radius: 140px;   
+}
+
+
+.edit_profile p {
+  margin-top: -5px;
+}
+
+.label_profile {
+  background-color: #42C2FF;
+  text-transform: lowercase;
+  text-align: center; 
+  font-size:  16px;
+  margin-top: 10px;
+}
+
+.nama_profile {
+  margin-bottom:  20px;
+  font-size: 32px;
+}
+
+.tombol_edit_profile {
+  margin-top: 8px;
+}
+.p_class {
+  display: inline-block;
+  margin-left: 5px; 
+}
+
+.s {
+  margin-top: 30px;
+}
+
+.barThead {
+  background-color: #176B87;
+  color: #fff;
+  text-align: center;
+}
+.label_profile {
+    background-color: #176B87;
+    text-transform: lowercase;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+/*Workingspace*/
+.workingspace {
+  margin-top: 80px;
+  text-align : center;
+}
+
+.workingspace img {
+  border-radius: 12px;
+  width: 536px;
+  height: 371px;
+}
+
+.workingspace h3 {
+  font-size: 52px;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-top: 30px;
+  color: #636363;
+}
+
+.workingspace h3 span {
+  font-weight: 500;
+}
+
+.workingspace p {
+  font-size: 18px;
+  color: #ACACAC;
+  font-weight: 200;
+  height: 60px;
+  margin: 30px 0 ;
+  overflow: hidden;
+}
+.tombol {
+  text-transform: uppercase;
+  border-radius: 40px; 
+  font-weight: bold;
+}
+
+.btn-secondary {
+  background-color: #176B87;
+  border-color:#176B87;
+}
+
+@media (min-width: 992px) {
+
+  .workingspace {
+    text-align: left; 
+  }
+}
+
+.admin_panel {
+  text-align: center;
+  margin-top: 10px; 
+  height: 200px;
+  border-radius: 12px; 
+  padding: 30px;
+  box-shadow: 0 3px 20px rgba(0,0,0,0.16);
+}
+
+.putih {
+  color: #fff;
+}
+
+.titlepanel {
+  margin-top: 20px;
+  margin-left: 0px;
+  border-left: 3px solid #636363;
+  margin-bottom: 15px;
+}
+
+.avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 140px;
+}
+
+.titlepanel2 {
+  margin-top: 20px;
+  margin-left: 0px;
+  border-left: 3px solid #636363;
+  margin-bottom: 15px;
+}
+.titlepanel h1 {
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #636363;
+}
+.titlepanel2 h1 {
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #636363;
+}
+
+.hijau {
+  background-color: #176B87;
+}
+
+.feather {
+  width: 16px;
+  height: 16px;
+  vertical-align: text-bottom;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100; /* Behind the navbar */
+  padding: 48px 0 0; /* Height of navbar */
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+
+.sidebar-sticky {
+  position: relative;
+  top: 0;
+  height: calc(100vh - 48px);
+  padding-top: .5rem;
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+}
+
+@supports ((position: -webkit-sticky) or (position: sticky)) {
+  .sidebar-sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+}
+
+.sidebar .nav-link {
+  font-weight: 500;
+  color: #333;
+}
+
+.sidebar .nav-link .feather {
+  margin-right: 4px;
+  color: #999;
+}
+
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather {
+  color: inherit;
+}
+
+.sidebar-heading {
+  font-size: .75rem;
+  text-transform: uppercase;
+}
+
+[role="main"] {
+  padding-top: 48px; /* Space for fixed navbar */
+}
+
+.navbar-brand {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  font-size: 1rem;
+  background-color: #176B87;
+}
+
+.navbar .form-control {
+  padding: .50rem 1rem;
+  border-width: 0;
+  border-radius: 0;
+}
+
+.form-control-dark {
+  color: #fff;
+  background-color: rgba(255, 255, 255, .1);
+  border-color: rgba(255, 255, 255, .1);
+}
+
+.form-control-dark:focus {
+  border-color: transparent;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+}
+
+
+/*Akhir CSS Komen*/
+.edit_profile {
+  text-align: left;
+  }
+
+/* DESKTOP VERSION FULL HD*/
+@media (min-width: 1200px) {
+  .komen-lawan textarea {
+  margin-top: 15px;
+  width: 89%;
+  resize: none;
+    height: 40px;
+  }
+  }
