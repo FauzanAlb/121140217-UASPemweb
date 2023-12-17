@@ -1,6 +1,9 @@
 # 121140217-UASPemweb
 Repository yang digunakan untuk Ujian Akhir Semester Pemrograman web
-Bagian 1: Client-side Programming (Bobot: 30%)
+
+
+Panduan:
+# Bagian 1: Client-side Programming (Bobot: 30%)
 1.1 (15%) Buatlah sebuah halaman web sederhana yang memanfaatkan JavaScript untuk melakukan manipulasi DOM.
 Panduan:
 - Buat form input dengan minimal 4 elemen input (teks, checkbox, radio, dll.)
@@ -11,7 +14,7 @@ Panduan:
 - Tambahkan minimal 3 event yang berbeda untuk menghandle form pada 1.1
 - Implementasikan JavaScript untuk validasi setiap input sebelum diproses oleh PHP
 
-Bagian 2: Server-side Programming (Bobot: 30%)
+# Bagian 2: Server-side Programming (Bobot: 30%)
 2.1 (20%) Implementasikan script PHP untuk mengelola data dari formulir pada Bagian 1 menggunakan variabel global seperti `$_POST` atau `$_GET`. Tampilkan hasil pengolahan data ke layar.
 Panduan:
 - Gunakan metode POST atau GET pada formulir.
@@ -22,7 +25,7 @@ Panduan:
 Panduan:
 - Objek yang dibuat harus terkait dengan konteks pengembangan web saat ini
 
-Bagian 3: Database Management (Bobot: 20%)
+# Bagian 3: Database Management (Bobot: 20%)
 3.1 (5%) Buatlah sebuah tabel pada database MySQL
 Panduan:
 - Lampirkan langkah-langkah dalam membuat basisdata dengan syntax basisdata
@@ -35,7 +38,7 @@ Panduan:
 Panduan:
 - Gunakan query SQL yang sesuai dengan skenario yang diberikan.
 
-  Bagian 4: State Management (Bobot: 20%)
+# Bagian 4: State Management (Bobot: 20%)
 4.1 (10%) Buatlah skrip PHP yang menggunakan session untuk menyimpan dan mengelola state pengguna. Implementasikan logika yang memanfaatkan session.
 Panduan:
 - Gunakan `session_start()` untuk memulai session.
@@ -46,7 +49,7 @@ Panduan:
 - Buat fungsi-fungsi untuk menetapkan, mendapatkan, dan menghapus cookie.
 - Gunakan browser storage untuk menyimpan informasi secara lokal.
 
-Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
+# Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
 Bagian bonus ini akan memberikan bobot tambahan 20% jika Anda berhasil meng-host aplikasi web yang Anda buat. Jawablah pertanyaan-pertanyaan berikut:
 
 (5%) Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
